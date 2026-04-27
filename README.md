@@ -48,7 +48,3 @@ Ensure you have Python 3.8+ installed. You will need the following libraries:
 
 ---
 *Developed as part of the RCEL 506 curriculum at Rice University.*
-"""
-
-with open('README-Executive-Summary.md', 'w') as f:
-    f.write(readme_content)
