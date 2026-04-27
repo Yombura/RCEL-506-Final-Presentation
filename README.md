@@ -11,7 +11,7 @@ The specific engineering challenge for this project is to accurately predict the
 This project implements a predictive maintenance model using a **NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation)** dataset on the Kaggle website.
 
 * **Approach:** A **Random Forest Regressor** ensemble model was selected to capture complex, non-linear relationships across 21 multivariate sensor channels (temperatures, pressures, and speeds).
-* **Target Variable:** Remaining Useful Life (RUL), defined as the number of operational cycles remaining before system failure.
+* **Target Variable:** Remaining Useful Life (RUL), defined as the number of operational cycles remaining before engine failure.
 * **Benchmark:** The model was evaluated against a baseline mean-cycle prediction ($RMSE: 46.11$), with the machine learning approach providing a more granular and actionable forecasting tool for engineering leads.
 
 ## 3. Data Source
