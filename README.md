@@ -3,12 +3,12 @@
 # Remaining Useful Life (RUL) Prediction for NASA Turbofan Engines 🚀
 
 ## 1. Business Problem
-Unscheduled maintenance in the aviation industry leads to significant operational disruptions, high costs, and potential safety risks. Traditional maintenance strategies are often **reactive** (fixing after failure) or **scheduled** (replacing parts regardless of actual wear).
+Unscheduled maintenance in the aviation industry leads to significant operational disruptions, high costs, and potential safety risks. Traditional maintenance strategies are often **reactive** (post failure) or **scheduled** (replacing parts regardless of actual wear).
 
 The specific engineering challenge for this project is to accurately predict the **Remaining Useful Life (RUL)** of turbofan engines. By identifying the exact point when an engine transitions from a "healthy" state to a "degraded" state, operators can optimize maintenance schedules, minimize downtime, and maximize asset utilization.
 
 ## 2. Proposed Solution
-This project implements a predictive maintenance model using the **NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation)** dataset. 
+This project implements a predictive maintenance model using a **NASA C-MAPSS (Commercial Modular Aero-Propulsion System Simulation)** dataset on the Kaggle website.
 
 * **Approach:** A **Random Forest Regressor** ensemble model was selected to capture complex, non-linear relationships across 21 multivariate sensor channels (temperatures, pressures, and speeds).
 * **Target Variable:** Remaining Useful Life (RUL), defined as the number of operational cycles remaining before system failure.
