@@ -1,5 +1,8 @@
 # RCEL-506-Capstone-Project
-🚀 NASA Turbofan Remaining Useful Life (RUL) Prediction
+**Project Title:** Remaining Useful Life (RUL) Prediction for NASA Turbofan Engines 🚀
+
+**Overview:** Unscheduled maintenance in the aviation industry leads to significant operational disruptions, high costs, and potential safety risks. Traditional maintenance strategies are often **reactive** (fixing after failure) or **planned** (replacing parts regardless of actual wear). 
+
 
 Capstone project designed to simulate a real-world engineering tasks where data science must be used to solve a specific, undefined business problem.
 ```python?code_reference&code_event_index=3
@@ -7,7 +10,7 @@ readme_content = """# Executive Summary: NASA Turbofan RUL Prediction
 **Course:** RCEL 506: Applied Statistics & Data Science for Engineering Leaders
 
 ## 1. Business Problem
-Unscheduled maintenance in the aviation industry leads to significant operational disruptions, high costs, and potential safety risks. Traditional maintenance strategies are often **reactive** (fixing after failure) or **scheduled** (replacing parts regardless of actual wear). 
+
 
 The specific engineering challenge for this project is to accurately predict the **Remaining Useful Life (RUL)** of turbofan engines. By identifying the exact point when an engine transitions from a "healthy" state to a "degraded" state, operators can optimize maintenance schedules, minimize downtime, and maximize asset utilization.
 
