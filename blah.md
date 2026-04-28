@@ -45,7 +45,3 @@ Python 3.8+ with: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `streamli
 
 ---
 *Developed for the RCEL 506 curriculum at Rice University.*
-"""
-
-with open('README.md', 'w') as f:
-    f.write(readme_content)
