@@ -45,5 +45,9 @@ Open the file `Yucabeth_Ombura_RCEL_506_Project-2.ipynb` in a Jupyter environmen
    * **Modeling Section:** Feature engineering (rolling averages) and Random Forest training.
    * **Evaluation Section:** Comparison of model performance vs. the baseline.
 
----
-*Developed for the RCEL 506 curriculum at Rice University.*
+----------------------------------------------------------------------
+Author: Yucabeth Ombura
+
+Course: RCEL 506 - Rice University
+
+Target Audience: CTO & Interdisciplinary Engineering Team
