@@ -1,4 +1,4 @@
-# 🚀 NASA Turbofan RUL Predictor: Predictive Maintenance Strategy
+# 🚀 NASA Turbofan Engines: Predictive Maintenance Strategy
 **RCEL 506: Applied Statistics & Data Science for Engineering Leaders**
 
 ### 🎯 Business Problem
@@ -6,7 +6,7 @@ In the aviation industry, unplanned engine maintenance is a primary driver of op
 1. **Run-to-failure:** High risk of catastrophic failure and flight cancellations.
 2. **Fixed-interval maintenance:** High cost due to replacing components that still have useful life remaining.
 
-**The Challenge:** How can we use real-time sensor data to predict the **Remaining Useful Life (RUL)** of a turbofan engine to transition from reactive to proactive maintenance?
+**The Challenge:** How can we use real-time sensor data to predict the **Total Life Capacity (Max Cycles)** of turbofan engines? By forecasting the specific "retirement age" of an engine based on its current health fingerprint, operators can derive the **Remaining Useful Life (RUL)** more reliably, optimizing maintenance schedules and maximizing asset utilization.
 
 ### 💡 Proposed Solution
 We developed a **Predictive Maintenance Model** using a Regularized Random Forest Regressor. By analyzing degradation patterns across multiple sensors, the model provides an objective estimate of when an engine will reach its failure point.
