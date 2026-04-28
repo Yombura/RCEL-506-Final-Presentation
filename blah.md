@@ -26,18 +26,11 @@ Python 3.8+ with: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `streamli
 
 ### Setup
 1.  **Clone the Repository:**
-    ```
-```text?code_stderr&code_event_index=1
-Traceback (most recent call last):
-  File "<xbox-string>", line 37
-    f.close()
-             ^
-IndentationError: unindent does not match any outer indentation level
-
-```bash
+    ```bash
     git clone [https://github.com/](https://github.com/)[your-username]/[your-repo-name].git
     cd [your-repo-name]
     ```
+    
 2.  **Install Dependencies:**
     ```bash
     pip install -r requirements.txt
