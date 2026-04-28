@@ -1,4 +1,4 @@
-# Executive Summary: NASA Turbofan RUL Prediction
+# Executive Summary: NASA Turbofan Max Cycles Prediction🚀
 **Course:** RCEL 506: Applied Statistics & Data Science for Engineering Leaders
 
 ## 1. Business Problem
