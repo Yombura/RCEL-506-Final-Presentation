@@ -24,7 +24,7 @@ The analysis uses the **FD001 dataset**, which includes:
 
 ### Prerequisites
 Ensure you have Python 3.8+ installed. You will need the following libraries:
-`pandas`, `numpy`, `matplotlib`, `scikit-learn`, and `streamlit` (if running the dashboard).
+`pandas`, `numpy`, `matplotlib.pyplot`, `seaborn`, `sklearn.metrics`, and `streamlit` (if running the dashboard).
 
 ### Setup
 1.  **Clone the Repository:**
