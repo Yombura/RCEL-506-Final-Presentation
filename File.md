@@ -31,8 +31,19 @@ To replicate this analysis, follow these steps:
 
 1. **Prepare Environment:**
    Ensure you have Python installed with the following libraries:
-   ```bash
-   pip install pandas numpy seaborn matplotlib scikit-learn
+   pip install `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `seaborn`
 
 2. **Download Data:**
    Ensure the NASA files train_FD001.txt and test_FD001.txt are located in the same directory as the notebook.
+
+3. **Run Analysis:**
+Open the file `Yucabeth_Ombura_RCEL_506_Project-2.ipynb` in a Jupyter environment or Google Colab.
+
+4. **Navigation:**
+   * EDA Section: Exploratory charts (Radar charts, Sensor trends, Histograms).
+   * Baseline Section: Calculation of the naive fleet-mean benchmark.
+   * Modeling Section: Feature engineering (rolling averages) and Random Forest training.
+   * Evaluation Section: Comparison of model performance vs. the baseline.
+
+---
+*Developed for the RCEL 506 curriculum at Rice University.*
