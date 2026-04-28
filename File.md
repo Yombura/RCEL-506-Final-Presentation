@@ -40,10 +40,10 @@ To replicate this analysis, follow these steps:
 Open the file `Yucabeth_Ombura_RCEL_506_Project-2.ipynb` in a Jupyter environment or Google Colab.
 
 4. **Navigation:**
-   * EDA Section: Exploratory charts (Radar charts, Sensor trends, Histograms).
-   * Baseline Section: Calculation of the naive fleet-mean benchmark.
-   * Modeling Section: Feature engineering (rolling averages) and Random Forest training.
-   * Evaluation Section: Comparison of model performance vs. the baseline.
+   * **EDA Section:** Exploratory charts (Radar charts, Sensor trends, Histograms).
+   * **Baseline Section:** Calculation of the naive fleet-mean benchmark.
+   * **Modeling Section:** Feature engineering (rolling averages) and Random Forest training.
+   * **Evaluation Section:** Comparison of model performance vs. the baseline.
 
 ---
 *Developed for the RCEL 506 curriculum at Rice University.*
